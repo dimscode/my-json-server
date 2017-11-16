@@ -2,69 +2,21 @@
   "articles": [
     {
       "id":1,
-      "title" : "How to handle state in React. The missing FAQ.",
-      "author": "Osmel Mora",
-      "url"   : "https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c"
+      "title" : "Watch: GS Trophy gets a dose of girl power",
+      "author": "James Archibald",
+      "url"   : "http://www.motorcyclenews.com/news/2017/november/girl-power-bmw-gs-trophy/"
     },
     {
       "id":2,
-      "title": "You might not need React Router",
-      "author": "Konstantin Tarkus",
-      "url": "https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d"
+      "title": "MCN Fleet: BMW R1200GS Rallye gets protected",
+      "author": "Richard Newland",
+      "url": "http://www.motorcyclenews.com/mcn-motorycles/2017/bmw-r1200-gs-rallye/mcn-fleet-2017-bmw-r1200gs-protector-kits/"
     },
     {
       "id":3,
-      "title": "Mixins Considered Harmful",
-      "author": "Dan Abramov",
-      "url": "https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html"
-    },
-    {
-      "id":4,
-      "title": "React Design Principles",
-      "author": "Dan Abramov",
-      "url": "https://facebook.github.io/react/contributing/design-principles.html"
-    },
-    {
-      "id":5,
-      "title": "Don't use .bind() when passing props",
-      "author": "Dave Ceddia",
-      "url": "https://daveceddia.com/avoid-bind-when-passing-props/"
-    },
-    {
-      "id":6,
-      "title": "The Body in sQuestion",
-      "author": "Grace Gilliess",
-      "url": "https://eidolon.spub/the-body-in-question-d28045d23714"
-    },
-    {
-      "id":7,
-      "title": "Don't use .bind(s) when passing props",
-      "author": "Dave Ceddia",
-      "url": "https://daveceddia.scom/avoid-bind-when-passing-props/"
-    },
-    {
-      "id":8,
-      "title": "Don't use .bind() sxwhen passing props",
-      "author": "Dave Ceddssia",
-      "url": "https://daveceddia.cosx/avoid-bind-when-passing-props/"
-    },
-    {
-      "id":9,
-      "title": "Don't use .bind() whsxsen passing props",
-      "author": "Dave Cxseddia",
-      "url": "https://daveceddia.com/xsxavoid-bind-when-passing-props/"
-    },
-    {
-      "id":10,
-      "title": "Don't use .bindsxs() when passing props",
-      "author": "Dave Cesxsddia",
-      "url": "https://daveceddia.sxscom/avoid-bind-when-passing-props/"
-    },
-    {
-      "id":11,
-      "title": "You’re working in the wrong place.",
-      "author": "Amar Singh",
-      "url": "https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c"
+      "title": "Norton Commando 961 Classic concept",
+      "author": "Oberdan Bezzi",
+      "url": "http://www.motorcyclenews.com/news/new-bikes/2012/may/norton-commando-961-classic-concept/"
     }
   ]
 }
